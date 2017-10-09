@@ -1,0 +1,19 @@
+[0m[[0minfo[0m] [0mPackaging /Users/urjun/spark/WordCountImproved/target/scala-2.10/wordcount_2.10-1.0.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	wordcount/WordCount$.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/urjun/spark/WordCountImproved/target/scala-2.10/classes/wordcount/WordCount$.class[0m
+[0m[[0mdebug[0m] [0m	wordcount/WordCount$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/urjun/spark/WordCountImproved/target/scala-2.10/classes/wordcount/WordCount$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	wordcount/WordCount$$anonfun$3.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/urjun/spark/WordCountImproved/target/scala-2.10/classes/wordcount/WordCount$$anonfun$3.class[0m
+[0m[[0mdebug[0m] [0m	wordcount/WordCount$$anonfun$2.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/urjun/spark/WordCountImproved/target/scala-2.10/classes/wordcount/WordCount$$anonfun$2.class[0m
+[0m[[0mdebug[0m] [0m	wordcount[0m
+[0m[[0mdebug[0m] [0m	  /Users/urjun/spark/WordCountImproved/target/scala-2.10/classes/wordcount[0m
+[0m[[0mdebug[0m] [0m	application.properties[0m
+[0m[[0mdebug[0m] [0m	  /Users/urjun/spark/WordCountImproved/target/scala-2.10/classes/application.properties[0m
+[0m[[0mdebug[0m] [0m	wordcount/WordCount.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/urjun/spark/WordCountImproved/target/scala-2.10/classes/wordcount/WordCount.class[0m
+[0m[[0mdebug[0m] [0m	wordcount/WordCount$$anonfun$main$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/urjun/spark/WordCountImproved/target/scala-2.10/classes/wordcount/WordCount$$anonfun$main$1.class[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m

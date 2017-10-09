@@ -1,0 +1,31 @@
+[0m[[0minfo[0m] [0mPackaging /Users/urjun/spark/totalrevdaily_sql/target/scala-2.10/totalrevdaily_2.10-1.0.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	retail/dataframes/TotalRevDaily.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/urjun/spark/totalrevdaily_sql/target/scala-2.10/classes/retail/dataframes/TotalRevDaily.class[0m
+[0m[[0mdebug[0m] [0m	retail/dataframes/Orders$.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/urjun/spark/totalrevdaily_sql/target/scala-2.10/classes/retail/dataframes/Orders$.class[0m
+[0m[[0mdebug[0m] [0m	retail/dataframes/TotalRevDaily$$typecreator1$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/urjun/spark/totalrevdaily_sql/target/scala-2.10/classes/retail/dataframes/TotalRevDaily$$typecreator1$1.class[0m
+[0m[[0mdebug[0m] [0m	retail/dataframes/TotalRevDaily$$typecreator2$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/urjun/spark/totalrevdaily_sql/target/scala-2.10/classes/retail/dataframes/TotalRevDaily$$typecreator2$1.class[0m
+[0m[[0mdebug[0m] [0m	retail/dataframes[0m
+[0m[[0mdebug[0m] [0m	  /Users/urjun/spark/totalrevdaily_sql/target/scala-2.10/classes/retail/dataframes[0m
+[0m[[0mdebug[0m] [0m	retail/dataframes/TotalRevDaily$$anonfun$3.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/urjun/spark/totalrevdaily_sql/target/scala-2.10/classes/retail/dataframes/TotalRevDaily$$anonfun$3.class[0m
+[0m[[0mdebug[0m] [0m	retail/dataframes/OrderItems.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/urjun/spark/totalrevdaily_sql/target/scala-2.10/classes/retail/dataframes/OrderItems.class[0m
+[0m[[0mdebug[0m] [0m	retail/dataframes/TotalRevDaily$.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/urjun/spark/totalrevdaily_sql/target/scala-2.10/classes/retail/dataframes/TotalRevDaily$.class[0m
+[0m[[0mdebug[0m] [0m	retail/dataframes/Orders.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/urjun/spark/totalrevdaily_sql/target/scala-2.10/classes/retail/dataframes/Orders.class[0m
+[0m[[0mdebug[0m] [0m	retail[0m
+[0m[[0mdebug[0m] [0m	  /Users/urjun/spark/totalrevdaily_sql/target/scala-2.10/classes/retail[0m
+[0m[[0mdebug[0m] [0m	retail/dataframes/TotalRevDaily$$anonfun$2.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/urjun/spark/totalrevdaily_sql/target/scala-2.10/classes/retail/dataframes/TotalRevDaily$$anonfun$2.class[0m
+[0m[[0mdebug[0m] [0m	retail/dataframes/TotalRevDaily$$anonfun$4.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/urjun/spark/totalrevdaily_sql/target/scala-2.10/classes/retail/dataframes/TotalRevDaily$$anonfun$4.class[0m
+[0m[[0mdebug[0m] [0m	retail/dataframes/TotalRevDaily$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/urjun/spark/totalrevdaily_sql/target/scala-2.10/classes/retail/dataframes/TotalRevDaily$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	retail/dataframes/OrderItems$.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/urjun/spark/totalrevdaily_sql/target/scala-2.10/classes/retail/dataframes/OrderItems$.class[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m
